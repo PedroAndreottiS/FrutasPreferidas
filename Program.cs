@@ -4,6 +4,6 @@ Console.WriteLine();
 Console.WriteLine("1. Maçã");
 Console.WriteLine("2. Pêra");
 Console.WriteLine("3. Banana");
-Console.WriteLine("4. Laranja");
-Console.WriteLine("5. Melancia");
+Console.WriteLine("4. Melancia");
+Console.WriteLine("5. Mamão");
 Console.WriteLine ("THE END");
